@@ -10,3 +10,5 @@ Solution: The proposed solution is the use of AI-assisted meme creation to susta
 
 Input: Random science or mathematic (Any educational content basically) output: Meme image with meme caption + Explanation: why its funny.
 Fine-tuned on: open_llama_3b" We leverage QLorA to efficiently decrease the training time
+
+![atom](https://github.com/user-attachments/assets/089b6224-0a91-4cbd-a6f7-3e2b8f2adfc2)
