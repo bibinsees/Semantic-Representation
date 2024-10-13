@@ -12,3 +12,4 @@ Input: Random science or mathematic (Any educational content basically) output: 
 Fine-tuned on: open_llama_3b" We leverage QLorA to efficiently decrease the training time
 
 ![atom](https://github.com/user-attachments/assets/089b6224-0a91-4cbd-a6f7-3e2b8f2adfc2)
+![electron](https://github.com/user-attachments/assets/465be34f-ff11-4415-9c19-e3ed0f223a42)
