@@ -8,4 +8,5 @@ Edtech companies often use educational memes on social media as part of their br
 
 Solution: The proposed solution is the use of AI-assisted meme creation to sustain the quality and frequency of posts.
 
+Input: Random science or mathematic (Any educational content basically) output: Meme image with meme caption + Explanation: why its funny.
 Fine-tuned on: open_llama_3b" We leverage QLorA to efficiently decrease the training time
